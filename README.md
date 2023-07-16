@@ -43,7 +43,7 @@ gene_annotation: /scratch/d85/yc1401/snakemake/test/test.gff3  # absolute path o
 max_intron_length: 70000  # max allowed intron length of lncRNAs
 ```
 
-Export all dependencies to PATH, then Run the pipeline in the base directory
+Export all dependencies to PATH, then Run the pipeline from the base directory
 
 ```
 cd LncRNAPredictor
