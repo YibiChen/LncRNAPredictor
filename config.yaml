@@ -1,0 +1,8 @@
+---
+sample: test
+read1: /scratch/d85/yc1401/snakemake/test2/A_1.fastq.gz
+read2: /scratch/d85/yc1401/snakemake/test2/A_2.fastq.gz
+genome_file: /scratch/d85/yc1401/snakemake/test/test.genome.fa
+gene_annotation: /scratch/d85/yc1401/snakemake/test/test.gff3
+max_intron_length: 70000
+
